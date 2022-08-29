@@ -19,6 +19,6 @@ service:
     icon: ti-school
     content: Coming Soon
   - name: Networking
-    icon: ti-pulse
+    icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
