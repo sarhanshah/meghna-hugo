@@ -17,9 +17,7 @@
   translation: About Us
 - id: services
   translation: Service
-- id: portfolio
-  translation: Portfolio
-- id: team
+- id: TheBuzzSaw
   translation: Team
 - id: pricing
   translation: Pricing
