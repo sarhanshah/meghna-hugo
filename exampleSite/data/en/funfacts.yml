@@ -1,8 +1,8 @@
 ---
 funfacts:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: "/images/297508_292264194214644_2056549456_n.jpg"
+  bg_image_webp: "/images/297508_292264194214644_2056549456_n.jpg"
   counter_item:
   - title: Happy Students
     icon: ti-face-smile
