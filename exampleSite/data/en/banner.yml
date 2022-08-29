@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: "/images/cafc-1.jpg"
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: THE FUCKING CAGED APE FIGHT CLUB
