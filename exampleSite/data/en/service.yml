@@ -7,7 +7,7 @@ service:
     icon: ti-book
     content: Coming soon.
   - name: Accountability
-    icon: ti-layout
+    icon: ti-clipboard
     content: Coming soon
   - name: Strength & Conditioning
     icon: ti-pulse
