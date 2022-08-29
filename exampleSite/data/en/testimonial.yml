@@ -1,8 +1,8 @@
 ---
 testimonial:
   enable: true
-  bg_image: images/backgrounds/bg-testimonial.jpg
-  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  bg_image: "/images/22713251_1896191933730069_2578531644241823724_o.jpg"
+  bg_image_webp: "/images/22713251_1896191933730069_2578531644241823724_o.jpg"
   testimonial_item:
   - name: The Don
     image: "/images/20220824_2137590.jpg"
