@@ -15,10 +15,9 @@ service:
   - name: Diet & Neutrition
     icon: ti-food
     content: Coming soon.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Virtual Dojo
+    icon: ti-school
+    content: Coming Soon
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
