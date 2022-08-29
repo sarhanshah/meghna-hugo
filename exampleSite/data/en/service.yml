@@ -16,7 +16,7 @@ service:
     icon: ti-heart
     content: Coming soon.
   - name: Virtual Dojo
-    icon: ti-school
+    icon: ti-crown
     content: Coming Soon
   - name: Networking
     icon: ti-vector
