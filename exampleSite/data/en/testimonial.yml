@@ -4,6 +4,11 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: The Don
+    image: "/images/20220824_2137590.jpg"
+    image_webp: "/images/20220824_2137590.jpg"
+    date: Oct 26, 2018
+    content: I can't live without the buzzsaw.
   - name: Rohan Shah
     image: "/images/zzzzz.jpg"
     image_webp: "/images/zzzzz.jpg"
@@ -14,10 +19,3 @@ testimonial:
     image_webp: "/images/sss.jpg"
     date: Dec 26, 2018
     content: Thanks to coach buzzsaw I got my blue belt!
-  - name: Lemos Kail
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
