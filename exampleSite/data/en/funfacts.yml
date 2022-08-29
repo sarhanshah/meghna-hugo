@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: Happy Students
     icon: ti-face-smile
-    count: "256"
+    count: "2562"
   - title: Blue Belts Completed
     icon: ti-archive
     count: "23"
@@ -15,4 +15,4 @@ funfacts:
     count: "2112"
   - title: Tips
     icon: ti-gift
-    count: '2,500,019'
+    count: "1231"
