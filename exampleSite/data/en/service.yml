@@ -10,7 +10,7 @@ service:
     icon: ti-layout
     content: Coming soon
   - name: Strength & Conditioning
-    icon: ti-barbell
+    icon: ti-pulse
     content: Coming soon.
   - name: Diet & Neutrition
     icon: ti-food
