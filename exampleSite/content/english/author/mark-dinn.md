@@ -3,6 +3,8 @@ title: Neil Sheppard
 image: "/images/niel1.jpg"
 email: email2@example.org
 social:
+- icon: ti-website
+  link: https://neil.ip.new/
 - icon: ti-linktree
   link: https://linktr.ee/neilthebuzzsawsheppard
 - icon: ti-instagram
