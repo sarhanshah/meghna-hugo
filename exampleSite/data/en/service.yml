@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Teaching
+  - name: Education
     icon: ti-book
     content: Coming soon.
   - name: Accountability
