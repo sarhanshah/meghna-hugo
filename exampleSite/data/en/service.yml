@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: THE DOJO
   service_item:
   - name: Education
     icon: ti-book
