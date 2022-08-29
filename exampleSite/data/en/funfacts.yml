@@ -6,7 +6,7 @@ funfacts:
   counter_item:
   - title: Happy Students
     icon: ti-face-smile
-    count: '1,192,191'
+    count: "256"
   - title: Blue Belts Completed
     icon: ti-archive
     count: '100,292'
