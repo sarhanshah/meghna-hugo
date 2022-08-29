@@ -140,6 +140,9 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = ""
+link = ""
+[[params.social]]
 icon = "ti-instagram"
 link = "https://instagram.com/cagedapefightclub?igshid=YmMyMTA2M2Y="
 [[params.social]]
