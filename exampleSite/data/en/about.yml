@@ -3,7 +3,7 @@ about:
   enable: true
   title: FIGHT CLUB
   about_item:
-  - icon: "/images/unknown-1.png"
+  - icon: ti-fist
     title: LEARN
     content: Learn MMA from the best coaches.
   - icon: ti-cup
