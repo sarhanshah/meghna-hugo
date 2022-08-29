@@ -12,10 +12,9 @@ service:
   - name: Strength & Conditioning
     icon: ti-barbell
     content: Coming soon.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Diet & Neutrition
+    icon: ti-food
+    content: Coming soon.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
