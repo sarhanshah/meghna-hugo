@@ -13,7 +13,7 @@ service:
     icon: ti-pulse
     content: Coming soon.
   - name: Diet & Neutrition
-    icon: ti-food
+    icon: ti-heart
     content: Coming soon.
   - name: Virtual Dojo
     icon: ti-school
