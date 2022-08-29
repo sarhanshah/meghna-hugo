@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: FIGHT CLUB
+  - icon: ti-pencil
     title: FIGHT CLUB
     content: Learn MMA
   - icon: ti-cup
