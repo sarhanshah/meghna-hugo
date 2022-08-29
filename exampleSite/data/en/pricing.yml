@@ -7,7 +7,7 @@ pricing:
     price: "0"
     unit: month
     services:
-    - Discord Group
+    - DISCORD GROUP
     button:
       label: Signup
       link: "#"
@@ -15,6 +15,7 @@ pricing:
     price: "$149"
     unit: month
     services:
+    - DISCORD GROUP
     - THE DOJO
     button:
       label: Signup
@@ -23,6 +24,7 @@ pricing:
     price: "$199"
     unit: month
     services:
+    - DISCORD GROUP
     - THE DOJO
     - FIGHT CLUB
     button:
