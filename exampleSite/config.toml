@@ -1,5 +1,5 @@
 baseURL = "cagedapes.netlify.app"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
