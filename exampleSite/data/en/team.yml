@@ -11,9 +11,7 @@ team:
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/neil.sheppard.3
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
+    - icon: ti-linktree
+      link: https://linktr.ee/neilthebuzzsawsheppard
     - icon: ti-dribbble
       link: "#"
