@@ -9,13 +9,11 @@ testimonial:
     image_webp: "/images/zzzzz.jpg"
     date: Dec 26, 2018
     content: Coach buzzsaw is the best! He gives me the best massages :)
-  - name: Mark Dinn
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
+  - name: Hernando
+    image: "/images/sss.jpg"
+    image_webp: "/images/sss.jpg"
     date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content: Thanks to coach buzzsaw I got my blue belt!
   - name: Lemos Kail
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
