@@ -2,19 +2,17 @@
 skill:
   enable: true
   title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  subtitle: We’re skilled in wide range of martial arts, coaching, and athletic development.
+  content: coming soon
   image: images/about/company-growth.webp
   skill_item:
   - name: Athletic Development
     percent: 90%
   - name: Analysis
     percent: 70%
-  - name: Design
-    percent: 80%
-  - name: IOS Development
+  - name: Coaching
+    percent: 100%
+  - name: Training UFC fighters
     percent: 95%
-  - name: Android Development
+  - name: Diet & Nutrition
     percent: 75%
